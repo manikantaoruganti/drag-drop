@@ -48,7 +48,7 @@ No third-party libraries — built entirely with vanilla JavaScript.
 
 Includes your name and auto-updating copyright
 
-💡 Why It’s Important for CSE/IT Students:
+💡 Why It’s Important :
 Practical example of handling file input in a browser.
 
 Encourages client-side programming for performance and privacy.
